@@ -1,7 +1,0 @@
-hello
-devops team
-pipeline{
-  stages{
-     stage {
-        steps (Build) {
-                     
